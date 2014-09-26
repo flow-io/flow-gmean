@@ -4,6 +4,8 @@ flow-gmean
 
 > Stream factory.
 
+TODO - update to sink at end.
+
 
 ## Installation
 
